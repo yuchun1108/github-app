@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/yuchun1108/github-app/static/css/main.073c9b0a.css",
-    "main.js": "/yuchun1108/github-app/static/js/main.af575f68.js",
-    "static/js/787.004ae3f7.chunk.js": "/yuchun1108/github-app/static/js/787.004ae3f7.chunk.js",
-    "static/media/logo.svg": "/yuchun1108/github-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/yuchun1108/github-app/index.html",
-    "main.073c9b0a.css.map": "/yuchun1108/github-app/static/css/main.073c9b0a.css.map",
-    "main.af575f68.js.map": "/yuchun1108/github-app/static/js/main.af575f68.js.map",
-    "787.004ae3f7.chunk.js.map": "/yuchun1108/github-app/static/js/787.004ae3f7.chunk.js.map"
+    "main.css": "/github-app/static/css/main.073c9b0a.css",
+    "main.js": "/github-app/static/js/main.2b58621d.js",
+    "static/js/787.004ae3f7.chunk.js": "/github-app/static/js/787.004ae3f7.chunk.js",
+    "static/media/logo.svg": "/github-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github-app/index.html",
+    "main.073c9b0a.css.map": "/github-app/static/css/main.073c9b0a.css.map",
+    "main.2b58621d.js.map": "/github-app/static/js/main.2b58621d.js.map",
+    "787.004ae3f7.chunk.js.map": "/github-app/static/js/787.004ae3f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.af575f68.js"
+    "static/js/main.2b58621d.js"
   ]
 }
